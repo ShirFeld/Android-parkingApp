@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ParkMS2</string>
+    <string name="start">START</string>
+    <string name="end">FINISH</string>
+    <string name="Parking">Parking</string>
+    <string name="btn_01">LOGIN</string>
+</resources>
