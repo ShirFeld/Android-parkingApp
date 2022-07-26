@@ -6,7 +6,7 @@
 *. Authentication*
 <br><br>
 
-## **1. HOME PAGE**
+## **1. Splash PAGE**
 
 <img src="/1.PNG" style="height:500px" >
 
