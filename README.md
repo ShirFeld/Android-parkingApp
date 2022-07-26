@@ -1,6 +1,10 @@
 # Parking App
 > NOTE: ALL RIGHTS RESERVED TO Shir Feldman & Michael Volfson 
 
+### In this application we used Firebase tools such as: 
+*. Realtime database*
+*. Authentication*
+
 
 ## **1. HOME PAGE**
 
