@@ -17,7 +17,7 @@
 
 ## **3. Sign in**
 
-<img src="/3.PNG" style="height:500px" >
+<img src="/3.PNG" style="height:300px" >
 
 <br><br>
 
